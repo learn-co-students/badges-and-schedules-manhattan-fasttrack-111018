@@ -22,7 +22,7 @@ end
   batch_badge_creator(arr).each do |badge|
     puts badge
   end
-   assign_rooms(arr).each do |assignment|
-    puts assignment
+   assign_rooms(arr).each do |room_assigned|
+    puts room_assigned
   end
 end 
